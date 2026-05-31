@@ -1,0 +1,21 @@
+{
+  "name": "typescript-learning-project",
+  "version": "1.0.0",
+  "description": "TypeScript სწავლების პროექტი - 4 ეტაპი",
+  "main": "index.html",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "typescript",
+    "learning",
+    "educational"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
